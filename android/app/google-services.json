@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680989416200",
+    "project_id": "less-chat",
+    "storage_bucket": "less-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680989416200:android:6bc999a53c17d695f7aabd",
+        "android_client_info": {
+          "package_name": "com.example.less_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680989416200-rpq1k210lrh0mj1r21qcgcg9rujpvo63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq3Y9TjflvwpN5UKpwMNlE6LiQ-fgaSgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680989416200-rpq1k210lrh0mj1r21qcgcg9rujpvo63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
